@@ -1,5 +1,11 @@
 # AI-Powered RAG Chatbot System with n8n, OpenAI & Pinecone
 
+<img width="1020" height="576" alt="rag 1" src="https://github.com/user-attachments/assets/40cff07d-89fd-4d7d-8856-c412e390efaa" />
+<img width="949" height="592" alt="rag 2" src="https://github.com/user-attachments/assets/18b2b30d-4147-4a68-a455-1d78c928cc21" />
+
+
+
+
 An intelligent Retrieval-Augmented Generation (RAG) chatbot built with n8n. This system automatically ingests documents from Google Drive, generates embeddings using OpenAI, stores vectors in Pinecone, and enables users to chat with an AI agent that retrieves accurate answers from the knowledge base.
 
 ## Overview
