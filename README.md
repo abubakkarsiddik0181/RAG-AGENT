@@ -122,5 +122,5 @@ This system can be adapted for:
 
 ## Author
 
-Built by Abu Bakkar Siddik
+Built by Abu Bakkar Siddik.
 Automation & AI Workflow Developer
